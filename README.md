@@ -1,1 +1,1 @@
-# Hunter College CSCI335 Projects
+# Hunter College CSCI335 Full Score Projects
